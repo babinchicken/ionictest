@@ -1,0 +1,8 @@
+{
+  "name": "tryoutionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "c35b3230"
+}
